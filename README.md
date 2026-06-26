@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working at @iotplusplus<br> and @multipliedai<br>🎓 Studied at IIT (ISM) Dhanbad
+🎓 Studied at IIT (ISM) Dhanbad
 
 
 # 💻 Tech Stack:
