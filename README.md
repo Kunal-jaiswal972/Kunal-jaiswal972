@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Studied at IIT (ISM) Dhanbad
+🎓 B.Tech, IIT Dhanbad
 
 
 # 💻 Tech Stack:
